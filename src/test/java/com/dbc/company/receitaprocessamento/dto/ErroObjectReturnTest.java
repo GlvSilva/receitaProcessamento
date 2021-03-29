@@ -7,7 +7,7 @@ class ErroObjectReturnTest {
 
     @Test
     void testBuilder() {
-        ErroObjectReturn result = ErroObjectReturn.builder()
+        ErrorObjectReturn result = ErrorObjectReturn.builder()
                 .trace("test")
                 .nameApplication("receitaprocessamento")
                 .build();

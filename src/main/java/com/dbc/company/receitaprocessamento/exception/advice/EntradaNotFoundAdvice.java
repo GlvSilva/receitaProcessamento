@@ -1,6 +1,6 @@
 package com.dbc.company.receitaprocessamento.exception.advice;
 
-import com.dbc.company.receitaprocessamento.dto.ErroObjectReturn;
+import com.dbc.company.receitaprocessamento.dto.ErrorObjectReturn;
 import com.dbc.company.receitaprocessamento.exception.EntradaNotFound;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpStatus;
@@ -20,7 +20,7 @@ public class EntradaNotFoundAdvice extends ResponseEntityExceptionHandler {
     @ExceptionHandler(EntradaNotFound.class)
     @ResponseStatus(value = HttpStatus.NOT_FOUND)
     public ResponseEntity<Object> notFoundException(EntradaNotFound ex) {
-        return ResponseEntity.status(404).body(ErroObjectReturn
+        return ResponseEntity.status(404).body(ErrorObjectReturn
                 .builder()
                 .nameApplication(nameApp)
                 .trace(ex.getMessage())
@@ -29,7 +29,7 @@ public class EntradaNotFoundAdvice extends ResponseEntityExceptionHandler {
 
     @ExceptionHandler(MethodNotAllowedException.class)
     public   ResponseEntity<Object> handleMethodNotAllowedExceptionException(MethodNotAllowedException ex) {
-        return ResponseEntity.status(405).body(ErroObjectReturn
+        return ResponseEntity.status(405).body(ErrorObjectReturn
                 .builder()
                 .nameApplication(nameApp)
                 .trace("Method not Allowed")

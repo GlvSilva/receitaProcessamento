@@ -5,7 +5,7 @@ import lombok.Getter;
 
 @Builder
 @Getter
-public class ErroObjectReturn {
+public class ErrorObjectReturn {
 
     private String nameApplication;
     private String trace;

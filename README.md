@@ -8,7 +8,7 @@
 ### Executando
 ```clean install```
 
-```jjava -jar target/receitaprocessamento-0.0.1-SNAPSHOT.jar entrada.csv```
+```java -jar target/receitaprocessamento-0.0.1-SNAPSHOT.jar entrada.csv```
 
 ### Resultado
 **saida.csv**
