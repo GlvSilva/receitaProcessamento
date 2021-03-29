@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5838cfe6-1e7c-477e-9fa2-c0b12dfbea5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="241" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit4 &amp; Mockito" />
+        <option value="Groovy, JUnit4 &amp; Mockito" />
+        <option value="TestNG &amp; Mockito" />
+        <option value="JUnit5 &amp; Mockito" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1qLaDH4kgxBuLbBjyx6paM9chgv" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2243346" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.dbc.company.receitaprocessamento.dto" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\guilherme.l.a.silva\Desktop\GLVS\receitaprocessamento" />
+      <recent name="C:\Users\guilherme.l.a.silva\Desktop\GLVS\receitaprocessamento\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.All in receitaprocessamento">
+    <configuration name="All in receitaprocessamento" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="receitaprocessamento" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SincronizacaoReceitaApplicationTest.testMain" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="receitaprocessamento" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dbc.company.receitaprocessamento.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dbc.company.receitaprocessamento" />
+      <option name="MAIN_CLASS_NAME" value="com.dbc.company.receitaprocessamento.SincronizacaoReceitaApplicationTest" />
+      <option name="METHOD_NAME" value="testMain" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SincronizacaoReceitaFunctionsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="receitaprocessamento" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dbc.company.receitaprocessamento.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dbc.company.receitaprocessamento.function" />
+      <option name="MAIN_CLASS_NAME" value="com.dbc.company.receitaprocessamento.function.SincronizacaoReceitaFunctionsTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SincronizacaoReceitaFunctionsTest.testProcessaEntrada" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="receitaprocessamento" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dbc.company.receitaprocessamento.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dbc.company.receitaprocessamento.function" />
+      <option name="MAIN_CLASS_NAME" value="com.dbc.company.receitaprocessamento.function.SincronizacaoReceitaFunctionsTest" />
+      <option name="METHOD_NAME" value="testProcessaEntrada" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SincronizacaoReceitaFunctionsTest.testProcessaSaida" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="receitaprocessamento" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dbc.company.receitaprocessamento.function.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dbc.company.receitaprocessamento.function" />
+      <option name="MAIN_CLASS_NAME" value="com.dbc.company.receitaprocessamento.function.SincronizacaoReceitaFunctionsTest" />
+      <option name="METHOD_NAME" value="testProcessaSaida" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SincronizacaoReceitaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="receitaprocessamento" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dbc.company.receitaprocessamento.SincronizacaoReceitaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in receitaprocessamento" />
+        <item itemvalue="JUnit.SincronizacaoReceitaFunctionsTest" />
+        <item itemvalue="JUnit.SincronizacaoReceitaFunctionsTest.testProcessaSaida" />
+        <item itemvalue="JUnit.SincronizacaoReceitaFunctionsTest.testProcessaEntrada" />
+        <item itemvalue="JUnit.SincronizacaoReceitaApplicationTest.testMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5838cfe6-1e7c-477e-9fa2-c0b12dfbea5e" name="Default Changelist" comment="" />
+      <created>1616861202348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616861202348</updated>
+      <workItem from="1616861207071" duration="140000" />
+      <workItem from="1616861605244" duration="1682000" />
+      <workItem from="1616865622721" duration="1231000" />
+      <workItem from="1616866885186" duration="1780000" />
+      <workItem from="1616868696555" duration="1032000" />
+      <workItem from="1616870517356" duration="2081000" />
+      <workItem from="1616873745899" duration="2135000" />
+      <workItem from="1616876114504" duration="1299000" />
+      <workItem from="1616962763051" duration="69000" />
+      <workItem from="1616963209708" duration="38000" />
+      <workItem from="1616966096682" duration="1689000" />
+      <workItem from="1616967935561" duration="1775000" />
+      <workItem from="1616969774814" duration="1684000" />
+      <workItem from="1616971590839" duration="1775000" />
+      <workItem from="1616973431306" duration="2138000" />
+      <workItem from="1616975616616" duration="26000" />
+      <workItem from="1617036771205" duration="1279000" />
+      <workItem from="1617038589077" duration="1813000" />
+      <workItem from="1617040445129" duration="1785000" />
+      <workItem from="1617042259268" duration="1783000" />
+      <workItem from="1617044075284" duration="1806000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="676" y="222" key="#Project_Structure" timestamp="1617045399575">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" key="#Project_Structure/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1616862671522" />
+    <state x="676" y="222" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1617045399575" />
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1617038416327">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="275" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617038416327" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616862689830">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1616862689830" />
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1617043993211">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617043993211" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1617042990521">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1616862350270" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1617042990521" />
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1617045531785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="168" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1616868501697" />
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1617045531785" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1617045531785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="168" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1616868501697" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1617045531785" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1617045531785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="168" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1616868501697" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1617045531785" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1617045531785">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="168" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1616868501697" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1617045531785" />
+    <state x="461" y="162" key="SettingsEditor" timestamp="1617044939608">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1616866854161" />
+    <state x="461" y="162" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617044939608" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1617038601765">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1280.984@0.0.1920.1040" timestamp="1616873746146" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1617038601765" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/receitaprocessamento$All_in_receitaprocessamento.ic" NAME="All in receitaprocessamento Coverage Results" MODIFIED="1617044278939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
